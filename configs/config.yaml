@@ -1,0 +1,14 @@
+postgres: {
+  host: localhost,
+  port: 55000,
+  database: sf_31,
+  username: postgres,
+  password: postgrespw
+  }
+mongo: {
+         host: localhost,
+         port: 55001,
+         database: sf_31,
+         username: docker,
+         password: mongopw
+}
